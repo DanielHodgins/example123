@@ -33,7 +33,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: !join ["https://github.com/", *GITHUB]
-      - label: "GitHub"
+      - label: "Auburn University"
       icon: "fab fa-solid fa-school"
       url: !join ["https://auburn.edu/", *Auburn University]
 
@@ -45,6 +45,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: !join ["https://github.com/", *GITHUB]
+      - label: "Auburn University"
+      icon: "fab fa-solid fa-school"
+      url: !join ["https://auburn.edu/", *Auburn University]
 
 # Build settings
 markdown: kramdown
