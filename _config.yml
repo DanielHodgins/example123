@@ -23,9 +23,9 @@ search: true
 
 
 author:
-  name   : "First Lastname"
+  name   : "Daniel Hodgins"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Phd student at Auburn University"
   links:
     - label: "✉ Email"
       icon: "fab"
@@ -33,6 +33,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: !join ["https://github.com/", *GITHUB]
+      - label: "GitHub"
+      icon: "fab fa-solid fa-school"
+      url: !join ["https://auburn.edu/", *Auburn University]
 
 footer:
   links:
