@@ -29,25 +29,25 @@ author:
   links:
     - label: "✉ Email"
       icon: "fab"
-      url: !join ["mailto:", *EMAIL]
+      url: "mailto:example@example.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: !join ["https://github.com/", *GITHUB]
-      - label: "Auburn University"
+      url: "https://github.com/DanielHodgins"
+    - label: "Auburn University"
       icon: "fab fa-solid fa-school"
-      url: !join ["https://auburn.edu/", *Auburn University]
+      url: "https://auburn.edu"
 
 footer:
   links:
     - label: "Email"
       icon: "fab fa-fw fa-envelope"
-      url: !join ["mailto:", *EMAIL]
+      url: "mailto:example@example.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: !join ["https://github.com/", *GITHUB]
-      - label: "Auburn University"
+      url: "https://github.com/DanielHodgins"
+    - label: "Auburn University"
       icon: "fab fa-solid fa-school"
-      url: !join ["https://auburn.edu/", *Auburn University]
+      url: "https://auburn.edu"
 
 # Build settings
 markdown: kramdown
