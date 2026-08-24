@@ -40,7 +40,7 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fa-solid fa-fw fa-envelope"
       url: "mailto:example@example.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
