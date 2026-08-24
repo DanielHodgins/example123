@@ -3,6 +3,13 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a second year Mathematics PhD student in the Department of Mathematics and Statistics at Auburn University. I obtained my Master of Science in Mathematics in 2024 at the University of South Alabama, where I earned my undergraduate degree in Mechanical Engineering and Mathematics with a concentration in Aerospace Engineering in 2023. My research interests currently lie in discrete math: graph theory, discrete geometry, and combinatorial game theory. Outside of mathematics, I enjoy camping, tabletop games, and swimming. I also enjoy assisting in math outreach. I am currently serving on the steering committee of the JRMF Community Math Circle.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Fall 2026
+Office: 3172 Govil Hall
+
+Office Hours:
+
+Thursday 11:00 AM-1:00 PM
+Friday 1:00 pm-2:00 PM
+You can find my contact information at my department profile on the Auburn Department of Mathematics and Statistics website.
